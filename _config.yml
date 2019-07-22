@@ -5,11 +5,11 @@
 
 # Site
 title: KaiXinCode
-subtitle:运气就是机会碰巧撞到了你的努力
+subtitle:test
 description:
-author: Zhao Zhiwei
+author: ZhaoZhiwei
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
